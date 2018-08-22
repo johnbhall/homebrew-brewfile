@@ -15,6 +15,7 @@ cask  'google-chrome'
 cask  'macdown'
 cask  '1password6'
 cask  'sourcetree'
+cask  'postman'
 mas   'GIPHY CAPTURE',      id: 668208984
 mas   'Keynote',            id: 409183694
 mas   'Numbers',            id: 409203825
