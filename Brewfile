@@ -24,3 +24,4 @@ mas   'Pages',              id: 409201541
 mas   'Magnet',             id: 441258766
 mas   'Slack',              id: 803453959
 mas   'Xcode',              id: 497799835
+mas   'LG Screen Manager'   id: 1142051783
