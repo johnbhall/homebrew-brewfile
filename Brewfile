@@ -14,7 +14,7 @@ cask  'dropbox'
 cask  'firefox'
 cask  'google-chrome'
 cask  'macdown'
-cask  '1password6'
+cask  '1password'
 cask  'sourcetree'
 cask  'postman'
 mas   'GIPHY CAPTURE',      id: 668208984
