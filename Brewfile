@@ -8,7 +8,6 @@ tap   'homebrew/cask-versions'
 brew  'mas'
 brew  'rbenv'
 brew  'shellcheck'
-cask  'atom'
 cask  'caffeine'
 cask  'dropbox'
 cask  'firefox'
@@ -17,6 +16,8 @@ cask  'macdown'
 cask  '1password'
 cask  'sourcetree'
 cask  'postman'
+cask  'docker'
+cask  'visual-studio-code'
 mas   'GIPHY CAPTURE',      id: 668208984
 mas   'Keynote',            id: 409183694
 mas   'Numbers',            id: 409203825
